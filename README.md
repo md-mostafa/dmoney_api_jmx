@@ -34,3 +34,11 @@ jmeter -n -t dmoney_api.jmx -l dmoney.jtl -e -o dmoneyReports
 
 
 
+### Generated reports
+![report](Screenshots/report.png)
+
+- **Jmeter Project Structure**
+![jmeter_project_structure](Screenshots/jmeter_project_strucuture.png)
+
+- **Jmeter Summary Report**
+![jmeter_project_structure](Screenshots/jmeter_summary_report.png)
